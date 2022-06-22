@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="250dp"
+            android:scaleType="fitXY"
+            android:background="@drawable/raucanxaothitbo"
+            />
+        <TextView
+            android:id="@+id/TxtcontentRaucanxaothitbo1"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="CÔNG THỨC RAU CẦN XÀO THỊT BÒ"
+            android:textSize="20dp"
+            android:textColor="#FF0000"
+            android:background="#EAE7E7"
+            android:textStyle="bold"
+            android:gravity="center"
+            />
+        <TextView
+            android:id="@+id/TxtcontentRaucanxaothitbo2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="1. Nguyên liệu"
+            android:textStyle="bold"
+            android:textColor="#0000FF"
+            android:textSize="18dp"
+            android:layout_marginTop="10dp"
+            />
+        <TextView
+            android:id="@+id/TxtcontentRaucanxaothitbo3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/ctraucanxaothitbo3"
+            android:textSize="14dp"
+            android:paddingLeft="20dp"
+            android:textColor="#000000"
+            />
+
+        <TextView
+            android:id="@+id/TxtcontentRaucanxaothitbo4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="2. Cách thực hiện"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:textColor="#0000FF"
+            />
+        <TextView
+            android:id="@+id/TxtcontentRaucanxaothitbo5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sơ chế thịt bò"
+            android:textSize="15dp"
+            android:paddingLeft="20dp"
+            android:textColor="#FF00FF"
+            android:layout_marginTop="10dp"
+            />
+        <TextView
+            android:id="@+id/TxtcontentRaucanxaothitbo6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/ctraucanxaothitbo6"
+            android:textSize="14dp"
+            android:paddingLeft="40dp"
+            android:textColor="#000000"
+            />
+
+        <TextView
+            android:id="@+id/TxtcontentRaucanxaothitbo7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sơ chế các nguyên liệu khác"
+            android:textSize="15dp"
+            android:paddingLeft="20dp"
+            android:textColor="#FF00FF"
+            android:layout_marginTop="10dp"
+            />
+        <TextView
+            android:id="@+id/TxtcontentRaucanxaothitbo8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/ctraucanxaothitbo8"
+            android:textSize="14dp"
+            android:paddingLeft="40dp"
+            android:textColor="#000000"
+            />
+        <TextView
+            android:id="@+id/TxtcontentRaucanxaothitbo9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Làm thịt bò xào rau cần"
+            android:textSize="15dp"
+            android:paddingLeft="20dp"
+            android:textColor="#FF00FF"
+            android:layout_marginTop="10dp"
+            />
+        <TextView
+            android:id="@+id/TxtcontentRaucanxaothitbo10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/ctraucanxaothitbo10"
+            android:textSize="14dp"
+            android:paddingLeft="40dp"
+            android:textColor="#000000"
+            />
+        <Button
+            android:id="@+id/BtnBackFromCtraucanxaothitbo"
+            android:layout_width="130dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Trở về"
+            android:textSize="20dp"
+            android:background="@drawable/ps_button"
+            android:layout_marginBottom="20dp"
+            />
+    </LinearLayout>
+</ScrollView>

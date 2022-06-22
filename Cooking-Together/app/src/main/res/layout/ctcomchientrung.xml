@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="250dp"
+            android:scaleType="fitXY"
+            android:background="@drawable/comchientrung"
+            />
+        <TextView
+            android:id="@+id/TxtcontentComchientrung1"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="CÔNG THỨC CƠM CHIÊN TRỨNG"
+            android:textSize="20dp"
+            android:textColor="#FF0000"
+            android:background="#EAE7E7"
+            android:textStyle="bold"
+            android:gravity="center"
+            />
+        <TextView
+            android:id="@+id/TxtcontentComchientrung2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="1. Nguyên liệu"
+            android:textStyle="bold"
+            android:textColor="#0000FF"
+            android:textSize="18dp"
+            android:layout_marginTop="10dp"
+            />
+        <TextView
+            android:id="@+id/TxtcontentComchientrung3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/ctcomchientrung3"
+            android:textSize="14dp"
+            android:paddingLeft="20dp"
+            android:textColor="#000000"
+            />
+
+        <TextView
+            android:id="@+id/TxtcontentComchientrung4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="2. Cách thực hiện"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:textColor="#0000FF"
+            />
+        <TextView
+            android:id="@+id/TxtcontentComchientrung5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sơ chế nguyên liệu"
+            android:textSize="15dp"
+            android:paddingLeft="20dp"
+            android:textColor="#FF00FF"
+            android:layout_marginTop="10dp"
+            />
+        <TextView
+            android:id="@+id/TxtcontentComchientrung6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/ctcomchientrung6"
+            android:textSize="14dp"
+            android:paddingLeft="40dp"
+            android:textColor="#000000"
+            />
+
+        <TextView
+            android:id="@+id/TxtcontentComchientrung7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Đánh trứng"
+            android:textSize="15dp"
+            android:paddingLeft="20dp"
+            android:textColor="#FF00FF"
+            android:layout_marginTop="10dp"
+            />
+        <TextView
+            android:id="@+id/TxtcontentComchientrung8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/ctcomchientrung8"
+            android:textSize="14dp"
+            android:paddingLeft="40dp"
+            android:textColor="#000000"
+            />
+        <TextView
+            android:id="@+id/TxtcontentComchientrung9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Chiên cơm"
+            android:textSize="15dp"
+            android:paddingLeft="20dp"
+            android:textColor="#FF00FF"
+            android:layout_marginTop="10dp"
+            />
+        <TextView
+            android:id="@+id/TxtcontentComchientrung10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/ctcomchientrung10"
+            android:textSize="14dp"
+            android:paddingLeft="40dp"
+            android:textColor="#000000"
+            />
+        <Button
+            android:id="@+id/BtnBackFromCtcomchientrung"
+            android:layout_width="130dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Trở về"
+            android:textSize="20dp"
+            android:background="@drawable/ps_button"
+            android:layout_marginBottom="20dp"
+            />
+    </LinearLayout>
+</ScrollView>

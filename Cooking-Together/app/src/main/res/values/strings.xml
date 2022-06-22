@@ -1,0 +1,536 @@
+<resources>
+    <string name="app_name">Cooking Together</string>
+
+    //Bánh canh
+    <string name="congthucbanhcanh_txt">\n
+        +\tGhẹ sống: 3 con\n\n
+        +\tBột năng: 1,5 bát\n\n
+	    +\tBột gạo: Nửa bát\n\n
+	    +\tĐiều đỏ: 2 - 3 hạt\n\n
+	    +\tNguyên liệu làm nước dùng: rau răm, hành lá, rau mùi, lá chanh, hành tím\n\n
+	    +\tGia vị: muối, hạt tiêu, hạt nêm, mì chính, v.v\n\n
+    </string>
+    <string name="congthucbanhcanh5_txt">\n
+        +\tĐể nấu được món bánh canh ghẹ ngon nhất, bạn cần chọn loại ghẹ vừa phải, còn tươi, đặc biệt là càng to đều. Sau đó đem rửa sạch và cắt bỏ phần chân, mai. Trứng ghẹ cũng cần được làm sạch để ra bát riêng.\n\n
+        +\tCho thịt ghẹ đã sơ chế vào bát, thêm gia vị muối, tiêu, hạt nêm vừa đủ rồi trộn đều lên. Bạn nên để yên bát trong khoảng thời gian 30 phút cho ghẹ ngấm gia vị.\n\n
+        +\tRau răm, hành lá, rau mùi đem nhặt bỏ các lá úa, sâu mọt. Sau đó thái nhỏ vừa ăn.\n\n
+        +\tBóc vỏ hành tím, băm nhuyễn.\n\n
+    </string>
+    <string name="congthucbanhcanh7_txt">\n
+        +\tTrộn đều bột gạo và bột năng, cho vào bát, thêm từ từ nước sôi vào, trộn cho đến khi tạo thành hỗn hợp mịn.\n\n
+        +\tCán mỏng cục bột trên rồi dùng dao cắt thành từng sợi vừa ăn.\n\n
+    </string>
+    <string name="congthucbanhcanh9_txt">\n
+        +\tHạt điều đã chuẩn bị đem đảo đều trên chảo dầu nóng cho đến khi nước chuyển màu nâu đỏ thì bỏ phần hạt.\n\n
+        +\tPhi thơm hành, cho trứng ghẹ vào đảo nhẹ tay. Sau đó đổ toàn bộ thịt ghẹ vào xào cùng đến khi chín tới. Khi ghẹ đã dậy mùi thơm, bạn thêm nước lọc, nước hạt điều vừa đủ vào hỗn hợp trên, nêm nếm gia vị vừa ăn.\n\n
+        +\tCho sợi bánh canh vào bát rồi múc thịt ghẹ lên trên. Chan từ từ nước dùng đến khi ngập nguyên liệu. Cuối cùng thêm hành lá, rau răm, rau mùi và thưởng thức món bánh canh ghẹ trứ danh chuẩn vị miền Nam nóng hổi.\n\n
+    </string>
+    ------------------------------------------------------------------------------------------------
+    //Bánh cuốn
+    <string name="congthucbanhcuon2">\n
+        +\t150g bột gạo\n\n
+        +\t60g bột năng\n\n
+        +\t200g thịt lợn nạc xay\n\n
+        +\t100g nấm hương, mộc nhĩ\n\n
+        +\t1 củ hành tây\n\n
+        +\t1 củ hành khô\n\n
+        +\t500ml nước lọc\n\n
+        +\tGia vị: Hạt tiêu, đường, dầu ăn, nước mắm, muối\n\n
+        +\tDụng cụ: Chảo chống dính, bát tô, thìa, v.v\n\n
+    </string>
+    <string name="congthucbanhcuon5">\n
+        +\tCho bột gạo, bột năng, 1/2 thìa cà phê muối, 1 thìa cà phê dầu ăn và 500ml nước lọc vào bát tô, khuấy đều cho hỗn hợp hòa tan, không bị vón cục.\n\n
+        +\tDùng màng bọc thực phẩm bọc miệng bát, cho vào ngăn mát tủ lạnh ngâm khoảng 2 giờ để bảo quản.\n\n
+    </string>
+    <string name="congthucbanhcuon7">\n
+        +\tNấm hương, mộc nhĩ đem ngâm nước khoảng 15 phút, rửa sạch, cắt bỏ gốc, thái nhỏ.\n\n
+        +\tHành tây và hành khô bóc bỏ lớp vỏ ngoài, rửa sạch, cắt thành hạt lựu.\n\n
+        +\tCho thịt xay, 1/2 thìa cà phê muối, 1 thìa cà phê hạt tiêu, 1 thìa cà phê hạt nêm vào bát tô, đảo đều rồi ướp khoảng 5 phút.\n\n
+    </string>
+    <string name="congthucbanhcuon9">\n
+        +\tĐặt chảo lên bếp, thêm 1 thìa canh dầu ăn vào đun sôi. Cho hành khô vào phi thơm vàng rồi cho hành tây vào đảo đều. Tiếp theo, bạn cho phần thịt vừa ướp vào chảo đảo qua khoảng 5 phút thì đổ nấm hương, mộc nhĩ vào đảo đều cho tơi phần nhân thì tắt bếp.\n\n
+    </string>
+    <string name="congthucbanhcuon11">\n
+        +\tĐặt chảo chống dính lên bếp, phết một lớp mỏng dầu ăn quanh chảo rồi múc hỗn hợp bột bánh cuốn vào. Lắc đều chảo để lớp vỏ bánh cuốn mỏng, đậy nắp chảo lại trong khoảng 1 phút cho vỏ bánh chín.\n\n
+        +\tSau khi bánh chín thì bạn trải ra đĩa, múc phần nhân bánh vào, dàn đều rồi cuốn bánh lại.\n\n
+    </string>
+    <string name="congthucbanhcuon13">\n
+        +\tSau khi hoàn thành xong các bước làm bánh cuốn chả trên đây, bạn lấy bánh ra đĩa, cắt thành miếng vừa ăn, trang trí sao cho đẹp mắt rồi thưởng thức thành quả của mình. Bánh cuốn ăn cùng với chả mực, chả lụa và các loại rau ăn kèm như rau thơm, rau húng.v.v, tạo nên hương vị thơm ngon, trọn vị.\n\n
+    </string>
+    ------------------------------------------------------------------------------------------------
+    //Bánh mỳ
+    <string name="congthucbanhmy3">\n
+        +\tCà chua\n\n
+        +\tTỏi\n\n
+	    +\tHành khô\n\n
+	    +\tDầu ăn\n\n
+	    +\tDầu hào\n\n
+	    +\tMuối\n\n
+	    +\tĐường\n\n
+	    +\tNước mắm\n\n
+    </string>
+    <string name="congthucbanhmy5">\n
+        +\tBánh mì\n\n
+	    +\tThịt heo quay thái miếng vừa ăn\n\n
+	    +\tDưa chuột\n\n
+        +\tCà chua\n\n
+	    +\tNộm đu đủ cà rốt\n\n
+	    +\tRau thơm, hành lá và rau sống nếu thích\n\n
+	    +\tNước sốt\n\n
+	    +\tTương ớt\n\n
+	    +\tTương cà\n\n
+	    +\tTiêu xay\n\n
+    </string>
+    <string name="congthucbanhmy8">\n
+    	1.\tCà chua sau khi rửa sạch, bạn để ráo nước sau đó thái thành miếng nhỏ kiểu hạt lựu.\n\n
+	    2.\tHành tỏi bạn bóc vỏ, rửa sạch, đập dập và thái nhỏ.\n\n
+	    3.\tThêm vào 200ml nước lọc, một ít dầu hào và nước mắm để tăng hương vị và tạo màu cho nước sốt.\n\n
+	    4.\tTiếp tục đun cho tới khi phần nước sốt đạt độ sệt, nêm thêm ít đường, muối cho vừa miệng rồi tắt bếp là xong. Vậy là bạn đã hoàn thành phần nước sốt bánh mì heo quay rồi. Bạn có thể bảo quản nước sốt trong tủ lạnh tới 3 ngày, khi ăn chỉ cần lấy ra hâm lại là vẫn còn nguyên hương vị. Nhưng tất nhiên, nếu ăn ngay sau khi làm xong thì vẫn là ngon nhất.\n\n
+    </string>
+    <string name="congthucbanhmy10">\n
+        1.\tDưa chuột sau khi rửa sạch, bạn gọt sơ vỏ để không bị đắng, sau đó thái thành từng lát dài và mỏng. Cà chua bạn cũng rửa sạch, để ráo nước và thái thành lát mỏng.\n\n
+	    2.\tRau thơm và rau sống bạn rửa sạch, loại bỏ lá hư thối sao đó để ráo nước.\n\n
+	    3.\tBánh mì bạn nướng lại để tạo độ nóng và giòn, giúp món ăn ngon hơn.\n\n
+        4.\tKhi bánh mì đã nóng, bạn cắt bánh mì theo chiều dọc, phết một lớp nước sốt vào trong. Tiếp đó, bạn cho lần lượt rau thơm, dưa chuột, cà chua, thịt heo quay, nộm đu đủ cà rốt, cuối cùng là hành lá vào.\n\n
+	    5.\tTrải đều nguyên liệu ra dọc bánh mì, sau đó thêm vào một ít tương ớt, tương cà, rắc thêm ít tiêu để tăng hương vị nữa là xong (NHOAM NHOAM).\n\n
+    </string>
+    ------------------------------------------------------------------------------------------------
+    //Bún bò huế
+    <string name="congthucbunbohue2">\n
+        +\tChân giò heo 1 kg\n\n
+	    +\tNạm bò 500 gr\n\n
+	    +\tBún sợi to 200 gr\n\n
+	    +\tHuyết bò hoặc heo 1 tô\n\n
+	    +\tChả cua hay chả bò 200 gr\n\n
+	    +\tDầu màu điều 3 muỗng canh\n\n
+	    +\tSả 7 cây\n\n
+	    +\tHành tây 2 củ\n\n
+	    +\tTỏi 1 củ\n\n
+	    +\tGừng 1 củ\n\n
+	    +\tMắm ruốc 2 muỗng canh\n\n
+	    +\tHành lá 1 ít\n\n
+	    +\tGiá đỗ 1 ít\n\n
+	    +\tMùi tàu/húng quế 1 ít\n\n
+	    +\tHoa chuối 1 ít\n\n
+	    +\tChanh 1 trái\n\n
+    </string>
+    <string name="congthucbunbohue5">\n
+        1.\tChân giò heo nếu thích nhiều thịt thì chọn chân sau, thích da và gân sần sật thì chọn chân trước, chặt thành những khoanh tròn, rửa sạch.\n\n
+	    2.\tLuộc chân giò qua nước sôi cho hết chất bẩn sau đó rửa lại bằng nước sạch.\n\n
+	    3.\tNạm bò rửa sạch, luộc riêng cùng 1/2 củ gừng thái lát cho thơm. Ninh lửa nhỏ khoảng 2 tiếng, dùng đũa xiên thử miếng nạm, nếu xiên qua được là đạt yêu cầu. Đợi thịt nạm nguội thái miếng mỏng.\n\n
+    </string>
+    <string name="congthucbunbohue7">\n
+        1.\tHuyết bò hoặc heo có thể mua sẵn hoặc mua huyết về luộc chín, thái miếng vừa ăn. (Lưu ý mua huyết ở những địa chỉ uy tín để đảm bảo an toàn thực phẩm). Nếu không ăn huyết có thể bỏ qua.\n\n
+	    2.\tChả cua nặn thành từng viên tròn nhỏ thả vào nồi nước luộc nạm, chả nổi lên là đã chín, bạn vớt ra để riêng. Có thể thay thế chả cua bằng chả bò, chả giò hoặc không cho chả cũng được.\n\n
+        3.\t4 cây sả băm nhỏ, còn lại cắt khúc, đập dập. Hành tây chia 2 phần, một nữa cắt đôi, nữa còn lại thái mỏng.\n\n
+        4.\tHành lá, mùi tàu, húng quế rửa sạch thái nhỏ. Các loại rau ăn kèm rửa sạch, để ráo nước.\n\n
+    </string>
+    <string name="congthucbunbohue9">\n
+        1.\tHòa 2 muỗng canh mắm ruốc với 100 ml nước lạnh.\n\n
+	    2.\tPhi 4 cây sả băm cho thơm cùng 2 thìa dầu ăn, lấy bớt sả ra, cho 3 muỗng canh dầu màu điều vào. Băm nhuyễn 1 củ hành, 1 củ tỏi kèm 2 trái ớt rồi cho vào chảo phi vàng thì tắt bếp.\n\n
+	    3.\tChân giò heo đã sơ chế bạn cho lên bếp ninh lửa nhỏ cùng 1 củ hành tây cắt đôi và 3 cây sả đập dập cho nước dùng thơm ngọt, ra hết chất trong xương. (Lưu ý thỉnh thoảng hớt bọt nồi nước dùng để nước được trong).\n\n
+	    4.\tLấy phần trên của nước mắm ruốc cho vào nồi, bỏ phần cặn đi. Cho 2 muỗng canh đường, 2 muỗng canh hạt nêm, 1 muỗng canh muối vào, nêm nếm cho vừa miệng.\n\n
+	    5.\tThêm chén ớt sa tế đã làm ở trên vào.\n\n
+    </string>
+    <string name="congthucbunbohue11">\n
+        +\tBạn trụng bún qua nước sôi, để ráo và trút ra tô.\n\n
+        +\tThêm thịt nạm, móng giò, chả cua, huyết, mùi tàu, hành lá thái nhỏ, một chút hành tây thái mỏng rồi chan nước dùng.\n\n
+	    +\tBún bò Huế ăn kèm giá đỗ, hoa chuối, húng quế, ớt chưng thì tuyệt ngon bạn nhé.\n\n
+    </string>
+    ------------------------------------------------------------------------------------------------
+    //Bún xào chay
+    <string name="congthucbunxaochay2">\n
+    	+\tBún gạo 100 gr\n\n
+	    +\tĐậu hũ chiên 5 miếng\n\n
+	    +\tCải ngọt 100 gr\n\n
+	    +\tCà rốt 1 củ\n\n
+	    +\tRau cần tây 100 gr\n\n
+	    +\tĐậu phộng 50 gr\n\n
+	    +\tHành tím 4 củ\n\n
+	    +\tTỏi 1 củ\n\n
+	    +\tỚt hiểm 2 trái\n\n
+	    +\tTương ớt 1 muỗng canh\n\n
+	    +\tHạt nêm chay 1.5 muỗng cà phê\n\n
+	    +\tNước tương 5 muỗng canh\n\n
+	    +\tDầu ăn 245 ml\n\n
+	    +\tGia vị thông dụng 1 ít (Muối/ đường/ tiêu xay)\n\n
+    </string>
+    <string name="congthucbunxaochay5">\n
+        +\tĐậu phộng cho vào 1 cái chảo đã làm nóng và rang cho đến khi chín. Sau đó để nguội và bóc vỏ.\n\n
+	    +\tTỏi, hành tím đập dập và cắt nhỏ để xào với rau cho thơm.\n\n
+	    +\tRau cải ngọt và rau cần tây bạn rửa sạch rồi cắt thành những đoạn vừa ăn. Cà rốt gọt vỏ rửa sạch rồi cắt thành những miếng theo chiều dài của củ cà rốt.\n\n
+    </string>
+    <string name="congthucbunxaochay7">\n
+        +\tBạn chuẩn bị một cái chảo cùng với 200ml dầu ăn, đợi đến khi dầu nóng thì bạn cho đậu hũ vào chiên. Trong khi chiên bạn nhớ trở đều 2 mặt của đậu để được giòn đều. Sau đó cắt đậu hũ thành từng miếng nhỏ cho vừa ăn.\n\n
+	    *Mách nhỏ: Nếu bạn mua được đậu hũ vừa mới ra lò, vẫn còn ấm nóng và chưa qua thời gian bảo quản thì có thể bỏ qua bước chiên đậu hũ này!\n\n
+    </string>
+    <string name="congthucbunxaochay9">\n
+    	1.\tPha nước sốt xào: chuẩn bị 1 cái chén và cho vào 1 muỗng cà phê hạt nêm chay, 1 muỗng canh nước tương, 1 muỗng canh tương ớt, 1/2 muỗng cà phê đường, 1/2 muỗng cà phê muối và 1/2 muỗng cà phê tiêu xay. Sau đó bạn khuấy đều hỗn hợp này lên.\n\n
+	    2.\tXào rau: chuẩn bị 1 cái chảo cùng 3 muỗng canh (45ml) dầu ăn, đợi dầu sôi bạn cho hành tỏi vào phi thơm sau đó cho cà rốt vào xào trước.\n\n
+	    3.\tBạn xào cà rốt khoảng 3 phút thì tiếp tục cho phần rau cải ngọt và rau cần vào. Tiếp tục cho chén nước sốt xào vào xào cùng, tiếp tục đảo đều khoảng 3 phút là được.\n\n
+    </string>
+    <string name="congthucbunxaochay11">\n
+    	1.\tBạn chuẩn bị 1 lít nước rồi đun sôi để trụng bún. Bạn lấy bún vừa số lượng người ăn sau đó cho vào một cái tô.\n\n
+	    2.\tĐổ nước sôi vào bún và trụng bún khoảng 30 giây rồi vớt ra ngâm vào tô nước đá khoảng 1 phút, vớt bún ra để ráo như vậy sẽ không làm cho bún bị nát khi xào.\n\n
+    </string>
+    <string name="congthucbunxaochay13">\n
+    	1.\tBạn chuẩn bị 1 cái chảo lớn bắc bếp lên để lửa lớn cho chảo nóng đều. Sau đó bạn cho rau củ xào lúc nãy vào và cho bún gạo đã trụng vào luôn rồi đảo đều liên tục trên lửa lớn.\n\n
+	    2.\tBạn xào khoảng 5 phút rồi cho đậu hũ vào đảo sơ qua rồi tắt bếp.\n\n
+    </string>
+    <string name="congthucbunxaochay15">\n
+        1.\tCho vào chén 1 tép tỏi, 2 trái ớt hiểm, 1/2 muỗng cà phê hạt nêm chay, 1 muỗng cà phê đường rồi giã nát.\n\n
+	    2.\tTiếp tục cho vào chén 4 muỗng canh nước tương, 3 muỗng canh nước lọc, 1/2 muỗng cà phê tiêu xay sau đó khuấy đều. Nêm nếm lại cho hợp với khẩu vị gia đình.\n\n
+    </string>
+    <string name="congthucbunxaochay17">\n
+    	+\tMón bún gạo xào chay kết hợp với rau củ rất bắt mắt, khi ăn bạn cho thêm một ít đậu phộng rang và chang thêm nước sốt để đậm vị hơn.\n\n
+	    +\tMón ăn này bạn có thể ăn vào những ngày ngán thịt cá hoặc ăn hằng ngày để đổi vị đều được.\n\n
+    </string>
+    ------------------------------------------------------------------------------------------------
+    <string name="cthutieunamvang2">\n
+        +\tGiò heo 800 gr\n\n
+    	+\tThịt nạc dăm 200 gr\n\n
+    	+\tTôm 300 gr\n\n
+    	+\tTrứng cút 15 quả\n\n
+    	+\tHành lá 3 nhánh\n\n
+    	+\tHành tím 2 củ\n\n
+    	+\tBún khô 1 bó (hoặc hủ tiếu dai)\n\n
+    	+\tDầu ăn 1.5 muỗng canh\n\n
+    	+\tRau ăn kèm 1 ít (giá hẹ/ xà lách/ diếp cá/ húng lủi/ tía tô)\n\n
+    	+\tGia vị thông dụng 1 ít (đường/ muối/ hạt nêm/ bột ngọt/ tiêu)\n\n
+    </string>
+    <string name="cthutieunamvang5">\n
+    	+\tChân giò rửa sạch. Sau đó, bạn cho giò vào nồi, đổ thêm khoảng 1 lít nước và 1/2 muỗng cà phê muối. Bắc lên bếp đun đến khi nước sôi tầm 2 - 3 phút sau đó tắt bếp vớt giò ra xả qua nước lạnh cho sạch để ráo.\n\n
+    	+\tMách nhỏ: Luộc sơ chân giò sẽ giúp cho nước lèo bớt bọt và trong hơn đồng thời cũng khử được mùi hôi giò heo.\n\n
+    	+\tThịt nạc dăm rửa sạch băm nhuyễn cho vào chén.\n\n
+    	+\tTôm rửa sạch, cắt bỏ bớt râu và lấy chỉ tôm , lấy tầm 2 con lột sạch vỏ băm nhuyễn để làm sốt thịt. Phần tôm còn lại cất riêng để cho vào nước dùng.\n\n
+    </string>
+    <string name="cthutieunamvang7">\n
+    	+\tTrứng cút bắc lên bếp đun sôi 10 phút, vớt ra lột vỏ sạch.\n\n
+    	+\tĐầu tiên ngâm 1 bó bún khô trong nước lạnh tầm 5 phút sau đó bắc lên bếp đun cho sôi đến khi bún vừa đủ độ mềm mong muốn thì tắt bếp. Sau đó, bạn vớt ra rổ xả qua nước lạnh và để ráo.\n\n
+        *Mách nhỏ:\n\n
+    	+\tBạn có thể thay thế sợi hủ tiếu bằng bún khô như mình nếu thích ăn mềm, ít dai nhé.\n\n
+    	+\tĐối với sợi hủ tiếu bạn không cần ngâm nước trước, khi ăn chỉ cần trụng nhanh qua nước sôi cho mềm là được.\n\n
+    	+\tHành tím lột vỏ, rửa sạch và băm nhuyễn.\n\n
+    	+\tHành lá cắt bỏ phần lá úa vàng và gốc rễ, rửa sạch, cắt phần hành lá và đầu hành để riêng. Phần hành lá cắt nhỏ, đầu hành chẻ đôi.\n\n
+    	+\tCho đầu hành vào cối, thêm 1 muỗng cà phê tiêu vào và giã đầu hành đập dập.\n\n
+    	+\tCác loại rau ăn kèm lặt lấy lá, bỏ cành đi và rửa thật sạch rồi vớt ra rổ để ráo.\n\n
+    </string>
+    <string name="cthutieunamvang9">\n
+    	+\tCho phần tôm và thịt nạc băm nhuyễn vào tô, sau đó cho thêm 1/2 muỗng cà phê tiêu xay, 1 muỗng canh hạt nêm, 1 muỗng cà phê đường, 1/2 muỗng bột ngọt, 1/2 phần hành tím đã băm và 1/2 muỗng canh dầu ăn. Sau đó trộn đều để thịt và tôm thấm đều gia vị.\n\n
+    	+\tTiếp đến, bạn bắc nồi lên bếp cho vào khoảng 1 muỗng canh dầu ăn. Đợi dầu nóng, bạn cho 1/2 phần hành tím băm vào phi thơm sau đó cho hỗn hợp tôm thịt vào trộn đều rồi đậy nắp. Bạn điều chỉnh lửa nhỏ nhất và nấu trong vòng 10 phút.\n\n
+    	+\tMách nhỏ: Bạn có thể cho thêm 1 ít nước vào nồi sốt thịt để thịt và tôm được tơi đều, tránh bị vón cục.\n\n
+    	+\tSau 10 phút, phần sốt thịt đã chín, bạn tắt bếp và cho ra tô.\n\n
+
+    </string>
+    <string name="cthutieunamvang11">\n
+    	+\tSử dụng nồi áp suất, cho vào 2 lít nước và toàn bộ phần giò vào, thêm 1/2 muỗng cà phê muối và đun trong nồi áp suất 1 tiếng.\n\n
+    	+\tMách nhỏ: Nếu không có nồi áp suất thì sử dụng nồi thường hầm giò trong ít nhất 2 tiếng với lửa vừa cho giò heo mềm nhé.\n\n
+    	+\tSau 1 tiếng, giò đã mềm, bạn cho phần hành tím băm còn lại và đầu hành chẻ đôi vào, sau đó nêm thêm 3 muỗng canh muối, 2 muỗng canh hạt nêm, 3 muỗng canh đường và 1 muỗng cà phê bột ngọt và nấu thêm khoảng 10 phút.\n\n
+    	+\tTiếp đó cho hết phần tôm còn lại vào và nấu thêm khoảng 5 phút. Nêm nếm lại cho vừa với khẩu vị gia đình bạn rồi tắt bếp.\n\n
+    </string>
+    <string name="cthutieunamvang13">\n
+    	+\tSau khi nước dùng đã sôi trở lại, bạn lấy một phần bún khô để ra tô, sau đó, trụng sơ qua nước lèo để sợi bún mềm rồi múc nước lèo đổ vào, bạn múc thêm tôm, thịt và giò rồi rắc thêm ít hành lá cắt nhỏ và tiêu xay lên bề mặt để tô hủ tiếu Nam Vang thêm hấp dẫn và ngon hơn nhé.\n\n
+    	+\tĐể món hủ tiếu thêm đậm đà hơn, bạn có thể ăn kèm với 1 chén mắm ớt siêu cay và rau sống.\n\n
+    	+\tNếu bạn muốn có 1 tô hủ tiếu nam vang đúng chuẩn thì chỉ cần thêm 1 ít lòng, gan heo luộc cùng với ít dầu tỏi phi lên trên tô, thật đơn giản để có món hủ tiếu đúng điệu rồi.\n\n
+    </string>
+    ------------------------------------------------------------------------------------------------
+    //Bắp cải luộc
+    <string name="ctbapcailuoc3">\n
+        +\tNguyên hoặc nửa bắp cải cỡ vừa\n\n
+    </string>
+    <string name="ctbapcailuoc6">\n
+    	+\tKế đến bạn rửa sạch bắp cải dưới vòi nước để rửa sạc bụi bẩn còn bám lại trên bắp cải.\n\n
+	    +\tNgoài ra để giúp bắp cải sạch hơn, bạn cũng có thể rửa với nước muối pha loãng và ngâm trong khoảng 10 phút, sau đó rửa lại với nước sạch, để ráo.\n\n
+    </string>
+    <string name="ctbapcailuoc8">\n
+    	+\tKế đến, rửa sạch bắp cải dưới vòi nước để rửa sạch bụi bẩn còn bám lại trên bắp cải.\n\n
+	    +\tNgoài ra để giúp bắp cải sạch hơn, bạn cũng có thể rửa với nước muối pha loãng và ngâm trong khoảng 10 phút, sau đó rửa lại với nước sạch, để ráo.\n\n
+    </string>
+    <string name="ctbapcailuoc10">\n
+        +\tTùy theo sở thích mà bạn có thể cắt bắp cải thành các miếng nhỏ hình chữ nhật hoặc thái sợi, hình khối tam giác sao cho vừa ăn là được \n\n
+    </string>
+    <string name="ctbapcailuoc12">\n
+    	+\tChuẩn bị một cái nồi, cho vào nồi lượng nước vừa phải, cho thêm khoảng 1/2 muỗng cà phê giấm (nếu bạn không thích mùi nồng của rau), đun sôi ở lửa lớn.\n\n
+	    +\tKế đến cho bắp cải vào nồi, hạ lửa nhỏ và luộc trong khoảng 5 phút (bắp cải thái sợi) hoặc trong khoảng 10 - 15 phút (bắp cải thái vuông, hình khối).\n\n
+    </string>
+    ------------------------------------------------------------------------------------------------
+    //Bắp cải xào cà chua
+    <string name="ctbapcaixaocachua">\n
+    	+\t400g bắp cải\n\n
+    	+\t2 quả cà chua\n\n
+    	+\t5 tép tỏi\n\n
+    	+\t3 nhánh hành lá\n\n
+    	+\t1 muỗng canh dầu ăn\n\n
+    	+\t1 muỗng canh dầu hảo\n\n
+    	+\t1 ít gia vị thông dụng (hạt nêm/bột ngọt/đường)\n\n
+    </string>
+    <string name="ctbapcaixaocachua6">\n
+        1.\tBắp cải mua về cắt sợi dài, rửa sạch với nước để ráo. Cà chua, bỏ cuống rửa sạch, cắt cà chua thành từng miếng nhỏ.\n\n
+	    2.\tHành lá bỏ rễ, loại bỏ lá úng rửa sạch để ráo, dùng dao cắt nhuyễn. Tỏi bóc sạch vỏ, rửa sơ qua với nước rồi băm nhuyễn.\n\n
+    </string>
+    <string name="ctbapcaixaocachua8">\n
+    	1.\tBắc chảo lên bếp cho vào 1 muỗng canh dầu ăn, đợi dầu nóng cho tỏi băm vào phi thơm, tiếp đến cho cà chua vào xào.\n\n
+    	2.\tNêm 1 muỗng canh dầu hào, 1 muỗng canh hạt nêm, 1 muỗng cà phê đường, 1/2 muỗng cà phê bột ngọt, 2 muỗng canh nước lọc, đun lửa vừa khoảng 3 - 5 phút, cà chua chín thì tiếp tục cho bắp cải vào xào chung.\n\n
+    	3.\tXào đến khi bắp cải chín thì nêm nếm lại gia vị cho vừa với khẩu vị, cuối cùng cho hành lá vào đảo sơ qua và tắt bếp.\n\n
+    </string>
+    ------------------------------------------------------------------------------------------------
+    //Bí đỏ xào tỏi
+    <string name="ctbidoxaotoi3">\n
+    	+\t½ trái bí đỏ\n\n
+    	+\t1 muỗng cà phê hạt nêm\n\n
+    	+\t2 tép tỏi\n\n
+    	+\t1 nhánh hành lá\n\n
+    	+\t½ muỗng cà phê tiêu\n\n
+    </string>
+    <string name="ctbidoxaotoi6">\n
+    	+\tBí đỏ gọt vỏ, bỏ ruột, rửa sạch rồi cắt thành từng miếng dài khoảng 5cm, dày 3mm.\n\n
+    	+\tHành lá rửa sạch, cắt nhỏ.\n\n
+    	+\tTỏi bóc vỏ, đập dập.\n\n
+    </string>
+    <string name="ctbidoxaotoi8">\n
+    	1.\tCho vào chảo 1 muỗng canh dầu ăn, đun nóng. Bạn trút tỏi và 1 ít hành lá vào chảo phi thơm, tiếp theo cho bí đỏ vào chảo xào nhanh tay khoảng 3 phút thì thêm vào 70ml nước lọc và 1 muỗng cà phê hạt nêm, xào khoảng 5-7 phút đến khi cạn gần hết nước và bí chín mềm.\n\n
+    	2.\tTrút hành lá vào chảo bí, đảo thêm vài cái rồi tắt bếp.\n\n
+    	3.\tCho bí đỏ xào ra đĩa, rắc 1/2 muỗng cà phê tiêu xay lên trên là hoàn tất.\n\n
+    </string>
+    ------------------------------------------------------------------------------------------------
+    //Rau bí xào tỏi
+    <string name="ctraubixaotoi">\n
+    	+\t800g rau bí\n\n
+	    +\t2 củ tỏi\n\n
+    </string>
+    <string name="ctraubixaotoi6">\n
+        -\tRau bí mua về bạn nhặt sạch, lưu ý lột bỏ hết lớp màng trắng bên ngoài và các gân lá để khi xào rau bí không bị dai. Sau khi rửa sạch thì bạn vò nhẹ rau bí để khi xào dễ thấm gia vị hơn.\n\n
+    </string>
+    <string name="ctraubixaotoi8">\n
+        -\tBắt một nồi nước cho thêm một ít muối vào, đến khi nước sôi thì bạn cho rau vào. Dùng đũa đảo để rau chín đều trong 2 - 3 phút, xong vớt ra ngay vào thau nước lạnh (hoặc nước đá) ngâm khoảng 2 phút giúp rau giữ màu xanh và giòn hơn.\n\n
+    </string>
+    <string name="ctraubixaotoi10">\n
+    	1.\tLấy 2 củ tỏi băm nhỏ hoặc nhuyễn tùy theo sở thích.\n\n
+    	2.\tSau đó bắt chảo cho dầu ăn vào bật lửa lớn. Khi dầu ăn sôi thì cho tỏi vào phi thơm, đến khi tỏi chuyển hơi vàng thì cho rau bí vào xào.\n\n
+    	3.\Nêm 3 muỗng hạt nêm (có thể tăng giảm tùy theo khẩu vị) và thêm 1/2 chén nước nhỏ vào và xào khoảng 5 phút thì tắt bếp.\n\n
+    </string>
+    ------------------------------------------------------------------------------------------------
+    //Rau cần xao thịt bò
+    <string name="ctraucanxaothitbo3">\n
+    	+\t200g thịt bò\n\n
+        +\t1 bó rau cần\n\n
+    	+\t1 củ tỏi\n\n
+    	+\t1 củ gừng\n\n
+    	+\tDầu hà\n\n
+    	+\tHạt tiêu\n\n
+    	+\tCác gia vị thông thường\n\n
+    </string>
+    <string name="ctraucanxaothitbo6">\n
+    	+\tThịt bò sau khi mua về, nếu cẩn thận thì khử sống thịt bò với ít gừng băm và rượu trắng, sau đó rửa sạch lại, để ráo rồi mới thái miếng. Đây là mẹo hay khử mùi hôi, gây ngái của thịt bò vô cùng hiệu quả mà Cookbeo chia sẻ để các bạn áp dụng khi chế biến các món ngon từ thịt bò.\n\n
+    	+\tThịt bò không nên thái quá dày, thịt dễ bị dai và khô. Cũng không nên thái vụn và quá mỏng, khi ăn không có được vị ngọt của thịt bò.\n\n
+    	+\tSau khi thái xong, ướp thịt bò (200g) với:\n\n
+        \t\t-\t1/2 thìa cà phê bột canh\n\n
+        \t\t-\t1/2 thìa cafe hạt nêm\n\n
+        \t\t-\t1/2 thìa cafe đường\n\n
+        \t\t-\t1/2 thìa cafe bột ngọt\n\n
+        \t\t-\t1 thìa cafe dầu hào\n\n
+        \t\t-\t2 thìa cafe dầu ăn\n\n
+        \t\t-\tHạt tiêu\n\n
+        +\tTrộn đều lên và để thịt thấm gia vị trong khoảng 15-20 phút. Lưu ý để thịt bò được tươi, không bị thâm thì sau khi ướp nên bọc lại và để ở ngăn mát tủ lạnh.\n\n
+    </string>
+    <string name="ctraucanxaothitbo8">\n
+    	+\tRau cần cắt bỏ phần gốc rễ, vợt bớt lá sâu, vàng. Sau đó cắt khúc dài khoảng 5cm, ngâm với nước muối pha loãng tầm 10 phút, rồi rửa sạch lại, để ráo nước.\n\n
+    	+\tTỏi bóc vỏ, gừng rửa sạch rồi nạo vỏ, băm nhỏ. Cho 1 nửa số tỏi và gừng băm này vào ướp cùng thịt bò cho thơm.\n\n
+    </string>
+    <string name="ctraucanxaothitbo10">\n
+    	+\tCho 1 thìa dầu ăn vào chảo, làm nóng chảo thì cho 1 nửa số tỏi gừng băm vào phi thơm, tiếp đến thả thịt bò vào xào săn lại. Để thịt bò mềm, không bị chảy nước, không bị dai thì nên xào ở nhiệt độ lớn và trong thời gian ngắn, sao cho khi thấy thịt chín tái, chuyển sang màu hồng nhạt là được. Sau đó trút thịt bò ra bát riêng.\n\n
+        +\tTiếp tục cho 2 thìa dầu ăn vào chảo, phi thơm nốt số tỏi gừng băm còn lại, sau đó cho cần vào xào. Cũng giống như thịt bò, khi xào cần bạn nên cho lửa to 1 chút để cần giòn và không bị chảy nước. Nêm gia vị vừa ăn, bao gồm 1 thìa canh dầu ăn, 1/2 thìa cà phê bột ngọt, đảo đều tay.\n\n
+    	+\tBởi vì cần nhanh chín nên chỉ cần xào nhanh trên lửa lớn khoảng tầm 2 phút là được.\n\n
+    	+\tLúc này cho thịt bò vào xào cùng, đảo thêm khoảng 30 giây là món ăn đã hoàn thành, trút ra đĩa, rắc thêm xíu hạt tiêu và thưởng thức lúc nóng.\n\n
+    </string>
+    <string name="ctraumuongxaotoi3">\n
+    	+\t500g rau muống\n\n
+    	+\t2 củ tỏi\n\n
+    	+\t1 muỗng canh dầu hào\n\n
+    	+\t2 muỗng canh dầu ăn\n\n
+    	+\t1 ít gia vị thông dụng (đường/muối/hạt nêm/bột ngọt)\n\n
+    </string>
+    <string name="ctraumuongxaotoi6">\n
+    	+\tRau muống nhặt bỏ phần gốc và những lá hư rồi ngắt thành từng khúc vừa ăn. Sau đó, đem rau đi rửa với nước muối pha loãng rồi rửa lại với nước sạch một lần nữa và để ráo.\n\n
+    	+\tTỏi bóc vỏ rồi đập dập.\n\n
+    </string>
+    <string name="ctraumuongxaotoi8">\n
+    	1.\tBắc chảo lên bếp, cho vào chảo 2 muỗng canh dầu ăn. Đợi dầu ăn nóng, cho tỏi vào phi thơm. Kế tiếp, cho hết rau muống vào xào đều tay trên lửa lớn rồi cho thêm 1/4 chén nước lọc vào và tiếp tục xào khoảng 5 phút cho rau chín.\n\n
+	    2.\tSau đó nêm vào chảo 1 muỗng canh hạt nêm, 1 muỗng cà phê đường, 1/2 muỗng cà phê bột ngọt, 1 muỗng cà phê dầu hào rồi xào đều tay đến khi nào gia vị tan hết. Có thể nêm nếm lại gia vị sao cho phù hợp với khẩu vị rồi tắt bếp và cho ra dĩa và thưởng thức.\n\n
+    </string>
+    ------------------------------------------------------------------------------------------------
+    //Cơm chiên trứng
+    <string name="ctcomchientrung3">\n
+    	+\t3 chén cơm nguội\n\n
+    	+\t2 quả trứng gà\n\n
+    	+\t1 nhánh hành lá\n\n
+    	+\t1 củ hành tím\n\n
+    	+\t1 muỗng canh nước mắm\n\n
+    	+\t2 muỗng canh dầu ăn\n\n
+    	+\t1 ít hạt nêm/ tiêu\n\n
+    </string>
+    <string name="ctcomchientrung6">\n
+        -\tHành lá cắt bỏ rễ và lá úa sau đó rửa sạch và cắt nhỏ. Hành tím lột vỏ, rửa sạch rồi cắt thành các lát mỏng.\n\n
+    </string>
+    <string name="ctcomchientrung8">\n
+        -\tĐập 2 trứng vào tô sau đó cho thêm 1 muỗng cà phê hạt nêm và 1 muỗng cà phê tiêu. Dùng đũa đánh thật đều tay để lòng tắng và đỏ hòa quyện vào nhau.\n\n
+    </string>
+    <string name="ctcomchientrung10">\n
+    	1.\tBắc chảo lên bếp, cho vào chảo 2 muỗng canh dầu ăn, đợi đến khi dầu nóng cho hành tím vào, đảo đều tới khi hành chuyển sang màu vàng nâu và dậy mùi thơm thì cho cơm vào, đảo đều với lửa vừa khoảng 5 phút cho hạt cơm săn lại.\n\n
+    	2.\tSau đó, rưới trứng vừa đánh lên trên bề mặt cơm, trộn đều tay với lửa vừa khoảng 5 phút rồi nêm thêm 1 muỗng cà phê hạt nêm và 1 muỗng canh nước mắm vào.\n\n
+    	3.\tTiếp tục trộn đều đến khi hạt cơm tơi rời, khô lại hòan toàn thì cho hành lá cắt nhỏ vào, nêm nếm lại gia vị cho vừa ăn rồi tắt bếp.\n\n
+    </string>
+    ------------------------------------------------------------------------------------------------
+    //Canh chua
+    <string name="ctcanhchua3">\n
+    	+\t1 kg cá hú\n\n
+    	+\t200g đậu bắp\n\n
+    	+\t100g dọc mùng (bạc hà)\n\n
+    	+\t300g giá đỗ\n\n
+    	+\t50g thơm (dứa)\n\n
+    	+\t1 trái cà chua\n\n
+    	+\t1 gói me vắt\n\n
+    	+\t1 ít hành băm\n\n
+    	+\t1 ít muối hạt\n\n
+    	+\t1 ít giấm\n\n
+    	+\t1 ít dầu ăn\n\n
+    	+\t1 ít nước mắm\n\n
+    	+\t1 ít gia vị thông dụng (muối/đường/hạt nêm/bột ngọt)\n\n
+    	+\t1 ít rau thơm đi kèm (ngò gai/ngò om)\n\n
+    </string>
+    <string name="ctcanhchua6">\n
+    	1.\tCá hú mua về rửa sạch, cắt khúc vừa ăn, dày khoảng 1 đốt ngón tay.\n\n
+    	2.\tSau đó chà sát cá thật kĩ với 2 muỗng canh muối hạt và 1 chút giấm cho sạch nhớt và mùi tanh. Lấy đi phần máu đông còn trong mình cá, đầu cá. Rửa lại thật sạch với nước.\n\n
+    	3.\tSau khi rửa sạch cá, ướp vào khoảng 1 muỗng canh hạt nêm, 1/3 muỗng canh muối, 1/3 muỗng canh đường, 1/3 muỗng canh nước mắm, 1 xíu bột ngọt.\n\n
+    	4.\tTrộn đều lên và đợi 15 phút cho gia vị ngấm đều vào cá.\n\n
+    </string>
+    <string name="ctcanhchua8">\n
+    	+\tDọc mùng mua về sơ chế sạch và cắt thành khoanh mỏng vừa ăn.\n\n
+    	+\tGiá đỗ, đậu bắp, cà chua, thơm, rau thơm rửa sạch.\n\n
+    	+\tGiá đỗ để nguyên. Đậu bắp cắt chéo thành khoanh vừa ăn hoặc tùy sở thích của gia đình mà để nguyên trái.\n\n
+    	+\tCà chua cắt múi cau làm 6 hoặc 8 tùy theo độ lớn. Thơm cắt thành những lát mỏng vừa ăn. Rau thơm cắt nhỏ vừa ăn.\n\n
+    </string>
+    <string name="ctcanhchua10">\n
+    	1.\tBắc một cái chảo lên bếp và đun nóng 2 muỗng canh dầu ăn. Khi dầu nóng thì phi thơm tỏi băm cho đến khi tỏi vàng. Sau đó đổ qua 1 cái rây để lấy phần tỏi phi riêng.\n\n
+    	2.\tLại tiếp tục bắc chảo lên bếp và đun nóng dầu ăn. Phi thơm hành băm.\n\n
+    	3.\tSau khi hành ngả màu vàng thì cho cá vào chiên sơ cho đến khi cá săn lại là được.\n\n
+    </string>
+    <string name="ctcanhchua12">\n
+    	1.\tBắc một cái nồi lên bếp và đun khoảng 2 lít nước.\n\n
+    	2.\tKhi nước sôi, cho me vắt vào rây lưới để lược me (như ảnh), dùng vá canh để tán đều me, loại bỏ hạt.\n\n
+    	3.\tSau đó cho cá đã chiên sơ vào. Khi nước đã sôi lại thì cho một nửa thơm cà vào nấu. Nếu có bọt thì vớt sạch.\n\n
+    	4.\tCho vào nồi canh 2 muỗng canh hạt nêm, 2 muỗng canh đường, 1/3 muỗng canh muối và 1 xíu bột ngọt. Nêm nếm lại theo khẩu vị gia đình.\n\n
+    	5.\Sau khi đun khoảng 5 - 10 phút thì canh chín, lần lượt cho phần rau còn lại (gồm phần thơm cà còn lại, dọc mùng, giá đỗ, đậu bắp) vào. Nấu sôi lại và tắt bếp và thưởng thức thôi chứ đợi gì nữa.\n\n
+    </string>
+    ------------------------------------------------------------------------------------------------
+    //Khổ qua nồi thịt
+    <string name="ctkhoquanoithit3">\n
+    	+\t3 trái khổ qua\n\n
+    	+\t200g thịt băm\n\n
+    	+\t50g nấm mèo\n\n
+    	+\t1 quả trứng vịt\n\n
+    	+\t800ml nước dùng heo\n\n
+    	+\t1 củ hành tím\n\n
+    	+\t2 tép tỏi\n\n
+    	+\t1 ít gia vị thông dụng (đường/muối/hạt nêm/tiêu)\n\n
+    </string>
+    <string name="ctkhoquanoithit6">\n
+        +\tKhổ qua mua về rửa sạch, cắt làm đôi, dùng muỗng lấy sạch phần ruột bên trong. Để khổ qua bớt đắng, ngâm khổ qua trong nước lạnh 10 - 15 phút, sau đó vớt ra để ráo.\n\n
+    	+\tNấm mèo ngâm nở, rửa sạch, bỏ phần chân rồi cắt nhỏ.\n\n
+    	+\tĐối với tỏi và hành tím, lột sạch vỏ, băm nhỏ.\n\n
+    	+\tHành ngò bỏ gốc, rửa sạch. Cắt hành lá thật nhuyễn.\n\n
+
+    </string>
+    <string name="ctkhoquanoithit8">\n
+    	1.\tTrộn đều thịt với nấm mèo, hành tím, tỏi băm, 1 quả trứng vịt và các loại gia vị gồm 1 muỗng cà phê đường, 1 muỗng cà phê tiêu, 1 muỗng cà phê hạt nêm.\n\n
+    	2.\tĐể yên 10 - 15 phút cho thịt thấm đều gia vị.\n\n
+    	3.\tLấy một lượng nhân vừa đủ, dùng muỗng cho từ từ vào ruột khổ qua, ấn nhẹ nhàng cho nhân thật chặt.\n\n
+    </string>
+    <string name="ctkhoquanoithit10">\n
+    	1.\tBắc nồi lên bếp, cho 800ml nước dùng và 1 muỗng cà phê muối, khi nước sôi cho khổ qua vào và nêm thêm 2 muỗng cà phê hạt nêm. Có thể gia giảm tùy khẩu vị.\n\n
+        2.\tNấu khoảng 40 phút thì khổ qua chín mềm, tắt bếp. Cho canh ra tô, rắc thêm hành ngò và 1 ít tiêu. Có thể đợi cho canh nguội bớt 1 xíu rồi mới thưởng thức, khi này canh sẽ không còn đắng nữa.\n\n
+    </string>
+    ------------------------------------------------------------------------------------------------
+    //Cơm rang dưa bò
+    <string name="ctcomrangduabo3">\n
+    	+\t1 chén cơm nguội\n\n
+    	+\t150g thịt bò\n\n
+    	+\t150g dưa cải chua\n\n
+    	+\t2 quả trứng gà\n\n
+    	+\t100g cà chua\n\n
+    	+\t1 ít hành lá\n\n
+    	+\t1 củ tỏi\n\n
+    	+\t1,5 muỗng canh hạt nêm\n\n
+    	+\t1 muỗng canh đường\n\n
+    	+\t1 muỗng canh nước mắm\n\n
+    	+\t1 muỗng canh dầu hào\n\n
+    	+\t4 muỗng canh dầu ăn\n\n
+    	+\t1 muỗng canh muối\n\n
+    	+\t1 ít tiêu\n\n
+    </string>
+    <string name="ctcomrangduabo6">\n
+        -\tChuẩn bị 1 chén cơm nguội, đập 1 quả trứng gà cho vào tô, sau đó thêm tiếp 1 muỗng canh hạt nêm, 1 ít tiêu
+        Trộn đều hỗn hợp, đảm bảo cho trứng và gia vị áo đều vào cơm để khi chiên cơm được thấm vị và có màu sắc bắt mắt.\n\n
+    </string>
+    <string name="ctcomrangduabo8">\n
+        +\tThịt bò: Để khử mùi hôi nên ngâm qua nước có pha 1 muỗng canh muối loãng khoảng 15 phút sau đó rửa sạch, để ráo. Dùng dao thái ngang thớ thịt thành các lát mỏng vừa ăn.\n\n
+    	+\tCải chua: Để loại bỏ bụi bẩn, giảm bớt độ chưa và hăng của cải chua nên mang đi rửa sạch với nước, để ráo rồi cắt cải thành các miếng vừa ăn, dày khoảng 1 lóng tay.\n\n
+    	+\tCà chua rửa sạch, cắt hạt lựu.\n\n
+    	+\tTỏi bóc vỏ, băm nhuyễn.\n\n
+    	+\tHành lá cắt nhỏ.\n\n
+    </string>
+    <string name="ctcomrangduabo10">\n
+        -\tƯớp thịt với ½ muỗng canh đường, ½ muỗng canh hạt nêm, 1 muỗng canh dầu hào và 1 ít tiêu, sau đó trộn đều và để khoảng 15-20 phút cho thịt bò thấm gia vị.\n\n
+    </string>
+    <string name="ctcomrangduabo12">\n
+        1.\tBắc chảo lên bếp, cho 2 muỗng cnah dầu ăn vào và đợi nóng, sau đó cho tiếp 1 muỗng canh tỏi băm vào phi thơm.\n\n
+      	2.\tKhi tỏi đã dậy mùi, cho toàn bộ phần cải chua vào chảo, xào với lửa lớn khoảng 2 phút.\n\n
+    	3.\tKế đến, cho phần thịt bò đã ướp gia vị vào chảo, đào đều tay đến khi thịt bò tái và săn lại thì thêm cà chưa cắt hạt lựu vào.\n\n
+        4.\tThêm vào chảo 1 muỗng canh đường, 1 muỗng canh nước mắm và 1 ít tiêu, xào thêm khoảng 2 phút nữa cho thịt bò và dưa cải chua thấm gia vị, sau đó tắt bếp, cho ra dĩa.\n\n
+    </string>
+    <string name="ctcomrangduabo14">\n
+    	1.\tThêm tiếp 2 muỗng canh dầu ăn vào chảo, cho phần tỏi băm vào phi thơm.\n\n
+    	2.\tCho cơm nguội đã ướp gia vị vào, đảo đều tay trên lửa lớn cho đến khi hạt cơm bông tơi, không còn bị ướt.\n\n
+    	3.\tCho toàn bộ phần thịt bò xào cải chua vào chảo, đảo đều khoảng 2 phút thì tắt bếp, rắc thêm 1 ít hành lá cắt nhỏ rồi trộn đều, cho ra dĩa.\n\n
+    </string>
+    ------------------------------------------------------------------------------------------------
+    //Thịt kho trứng
+    <string name="ctthitkhotrung3">\n
+    	+\t500g thịt heo\n\n
+    	+\t5 quả trứng vịt\n\n
+    	+\t2 muỗng cà phê hành tím băm\n\n
+    	+\t3 muỗng nước mắm\n\n
+    	+\t1 muỗng nước tương\n\n
+    	+\t1 muỗng cà phê hạt nêm\n\n
+    	+\t1 muỗng canh đường\n\n
+    	+\t1 muỗng cà phê tiêu\n\n
+    	+\t½ câu hành lá\n\n
+    	+\t1 muỗng cà phê tỏi băm\n\n
+    	+\t200ml ước dừa\n\n
+    </string>
+    <string name="ctthitkhotrung6">\n
+    	1.\tSơ chế thịt heo: Dùng dao cạo bớt phần bẩn trên lớp bì, sau đó rửa sạch. Chần miếng thịt heo vào nồi nước sôi có chút muối khoảng 3-4 phút, rồi vớt ra rửa qua nước lạnh. Cắt thịt heo thành miếng vừa ăn.\n\n
+    	2.\tƯớp thịt với 2 muỗng cà phê hành tím băm, 1 muỗng cà phê tiêu, 1 muỗng cà phê hạt nêm, 1 muỗng canh nước mắm, 1 muỗng cà phê nước tương và 1 muỗng canh đường, trộn đều. Để 30 phút cho thịt thấm gia vị.\n\n
+    	3.\tLuộc chín trứng vịt, để hơi nguội rồi bóc vỏ.\n\n
+    	4.\tBắc nồi lên bếp, cho vào 1 muỗng canh đường. Nấu với lửa nhỏ và dùng đũa khuấy khuấy cho đến khi thấy đường chuyển qua màu nâu cánh gián thì cho 1 muỗn cà phê hành tỏi băm vào xào thơm (1 phút). Kế đến cho thịt vào xào săn (7-10 phút).\n\n
+    	5.\tCho 200ml nước dừa cùng với nước lạnh ngập thịt khi với lửa vừa 10 phút. Cuối cùng cho trứng vịt vào và hạ hơi nhỏ lửa tiếp tục cho đến khi thịt kho hột vịt chín mềm.\n\n
+    	6.\tKho đến khi trứng thấm gia vị và có màu hơi nâu nhẹ thì cho phần hành trắng cùng với vài trái ớt vào kho cùng. Lúc này thịt khi hột vịt đã có thể dùng được nhưng khi vừa làm xong thường sẽ chưa đậm đà và thấm vị đủ độ. Vì vậy, mỗi ngày cứ hầm thịt khi hột vịt trên lửa riu riu khoảng 30 phút – 1 tiếng. Với cách nấu thịt kho hột vịt này, tầm khoảng 2 ngày là thịt kho hột vịt sẽ đậm vị và ngon.\n\n
+    </string>
+    ------------------------------------------------------------------------------------------------
+    //Thịt bò xào hành tây
+    <string name="ctthitboxaohanhtay3">\n
+    	+\t300g thịt bò\n\n
+    	+\t1 củ hành tây\n\n
+    	+\t2 muỗng canh dầu ăn\n\n
+    	+\t1 gia vị thông dụng (muối/hạt nêm/bột ngọt)\n\n
+    </string>
+    <string name="ctthitboxaohanhtay6">\n
+    	+\tThịt bò: rửa sạch, cắt miếng mỏng cho vừa ăn rồi cho vào tô.\n\n
+	    +\tHành tây: lột vỏ rồi rửa sạch, sau đó cắt múi cau có độ dày khoảng ½ đốt tay.\n\n
+    </string>
+    <string name="ctthitboxaohanhtay8">\n
+    	1.\tCho thịt bò vào chảo cùng 1 muỗng canh dầu ăn, 1 muỗng cà phê hạt nêm, ½ muỗng cà phê bột ngọt, 1 muỗng cà phê muối xào đều tay với lửa lớn trong 1 phút cho thịt bò săn lại thì cho 3 muỗng canh nước lọc vào xào khoảng 2 phút cho rút bớt nước thì cho thịt bò ra dĩa.\n\n
+    	2.\tDùng lại chảo vừa xào thịt, cho 1 muỗng canh dầu ăn vào chảo đun nóng, cho hành tây vào xào khoảng 1 phút thì nêm vào 1 muỗng cà phê hạt nêm, xào đều tay trên bếp với lửa lớn khoảng 2 phút là được.\n\n
+    	3.\tHạ lửa vừa cho phần thịt bò đã xào vào, đảo trên bếp khoảng 3 phút cho hành tây và thịt bò chín hẳn thì nêm nếm lại gia vị và tất bếp.\n\n
+    </string>
+</resources>

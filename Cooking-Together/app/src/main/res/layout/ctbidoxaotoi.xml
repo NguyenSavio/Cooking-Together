@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="250dp"
+            android:scaleType="fitXY"
+            android:background="@drawable/bidoxaotoi"
+            />
+        <TextView
+            android:id="@+id/TxtcontentBidoxaotoi1"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="CÔNG THỨC BẮP CẢI XÀO CÀ CHUA"
+            android:textSize="20dp"
+            android:textColor="#FF0000"
+            android:background="#EAE7E7"
+            android:textStyle="bold"
+            android:gravity="center"
+            />
+        <TextView
+            android:id="@+id/TxtcontentBidoxaotoi2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="1. Nguyên liệu"
+            android:textStyle="bold"
+            android:textColor="#0000FF"
+            android:textSize="18dp"
+            android:layout_marginTop="10dp"
+            />
+        <TextView
+            android:id="@+id/TxtcontentBidoxaotoi3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/ctbidoxaotoi3"
+            android:textSize="14dp"
+            android:paddingLeft="20dp"
+            android:textColor="#000000"
+            android:textIsSelectable="true"
+            />
+
+        <TextView
+            android:id="@+id/TxtcontentBidoxaotoi4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="2. Cách thực hiện"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:textColor="#0000FF"
+            />
+        <TextView
+            android:id="@+id/TxtcontentBidoxaotoi5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sơ chế nguyên liệu"
+            android:textSize="15dp"
+            android:paddingLeft="20dp"
+            android:textColor="#FF00FF"
+            android:layout_marginTop="10dp"
+            />
+        <TextView
+            android:id="@+id/TxtcontentBidoxaotoi6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/ctbidoxaotoi6"
+            android:textSize="14dp"
+            android:paddingLeft="40dp"
+            android:textColor="#000000"
+            android:textIsSelectable="true"
+            />
+
+        <TextView
+            android:id="@+id/TxtcontentBidoxaotoi7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Xào bí"
+            android:textSize="15dp"
+            android:paddingLeft="20dp"
+            android:textColor="#FF00FF"
+            android:layout_marginTop="10dp"
+            />
+        <TextView
+            android:id="@+id/TxtcontentBidoxaotoi8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/ctbidoxaotoi8"
+            android:textSize="14dp"
+            android:paddingLeft="40dp"
+            android:textColor="#000000"
+            android:textIsSelectable="true"
+            />
+
+        <Button
+            android:id="@+id/BtnBackFromCtbidoxaotoi"
+            android:layout_width="130dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Trở về"
+            android:textSize="20dp"
+            android:background="@drawable/ps_button"
+            android:layout_marginBottom="20dp"
+            />
+    </LinearLayout>
+</ScrollView>

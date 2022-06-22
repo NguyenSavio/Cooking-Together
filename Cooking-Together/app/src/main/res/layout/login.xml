@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/backgroundlogin"
+    android:padding="20dp">
+
+    <TextView
+        android:id="@+id/txtSignin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cooking Together"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:textSize="40dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        />
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/lgemailTLL"
+        android:layout_below="@id/txtSignin"
+        android:textColorHint="@color/white"
+        android:layout_marginTop="40dp">
+        <EditText
+            android:id="@+id/EdtEmail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter your email"
+            android:textSize="20dp"
+            android:background="#30ffffff"
+            android:inputType="textEmailAddress"
+            android:drawableLeft="@drawable/ic_baseline_person_outline_24"
+            android:drawablePadding="10dp"
+            android:padding="20dp"
+            android:textColor="@color/white" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/lgpassTLL"
+        android:layout_below="@id/lgemailTLL"
+        android:textColorHint="@color/white">
+        <EditText
+            android:id="@+id/EdtPassword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textPassword"
+            android:textSize="20dp"
+            android:background="#30ffffff"
+            android:drawableLeft="@drawable/ic_baseline_vpn_key_24"
+            android:drawablePadding="10dp"
+            android:hint="Password"
+            android:padding="20dp"
+            android:textColor="@color/white"/>
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <LinearLayout
+        android:id="@+id/Linearlg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:layout_below="@id/lgpassTLL">
+
+        <Button
+            android:id="@+id/Btnlogin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/EdtPassword"
+            android:layout_margin="15dp"
+            android:backgroundTint="@color/design_default_color_secondary"
+            android:text="LOGIN"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/Btnregister"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/EdtPassword"
+            android:backgroundTint="@color/design_default_color_secondary"
+            android:text="Register"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+</RelativeLayout>
